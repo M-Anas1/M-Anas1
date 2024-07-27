@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
 
-- ⚡ Fun fact **I think I am**
+- ⚡ Fun fact **I think I am not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
