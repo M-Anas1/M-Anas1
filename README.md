@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm M Anas</h1>
-<h3 align="center">A passionate frontend developer from Pakistan .</h3>
+<h3 align="center">A passionate developer from Pakistan .</h3>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **frontend**
+- 👯 I’m looking to collaborate on **GenAI**
 
-- 🤝 I’m looking for help with **Development**
+- 🤝 I’m looking for help with **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
 
@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **m401anas@gmail.com**
+- 📫 How to reach me **manasbwp5@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
 
-- ⚡ Fun fact **I think I am not Funny**
+- ⚡ Fun fact **I am crazy about Coding **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
