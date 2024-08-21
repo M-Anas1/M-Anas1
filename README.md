@@ -21,7 +21,6 @@
 - 📄 Know about my experiences [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
 
 - ⚡ Fun fact **I am crazy about Coding **
-<br>
 - <h2> Connet with <b>me</b> </b>
 
 <div align="center">
