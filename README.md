@@ -21,9 +21,8 @@
 - 📄 Know about my experiences [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
 
 - ⚡ Fun fact **I am crazy about Coding **
-
--
-  <h2> Language and Tools </h2>
+<br>
+- <h2> Language and Tools </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,8 +49,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
 </div>
-
-<h2> Connet with <b>me<b> </b>
+<br>
+<h2> Connet with <b>me</b> </b>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-anas-047a7a320/" target="_blank">
@@ -73,5 +72,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo"  />
   </a>
 </div>
-
-###
