@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
 </div>
 <br>
-<h2> Connet with <b>me</b> </b>
+- <h2> Connet with <b>me</b> </b>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-anas-047a7a320/" target="_blank">
